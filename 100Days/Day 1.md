@@ -58,4 +58,4 @@ https://user-images.githubusercontent.com/89042174/171520009-66e2fb09-b19f-41a8-
 - [ ] Messaging ViewModel
 - [ ] Messaging Manager ( Send, Fetch, Delete..)
 - [ ] Learn about Realm
-- [ ] Finish Frame vs. Bounds On [Interview Repo](https://github.com/JoJoDevAdventure/Swift-Interview)
+- [X] Finish Frame vs. Bounds On [Interview Repo](https://github.com/JoJoDevAdventure/Swift-Interview)
