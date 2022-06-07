@@ -61,4 +61,21 @@ this api call is made in my [iCookPad](https://github.com/JoJoDevAdventure/iCook
 
 ## What I accomplished :
 
+• I finisehd the custom search ( UI + APICall ) in my cooking app
+
+###### here's what it looks like : 
+
+https://user-images.githubusercontent.com/89042174/172495005-b7f78f12-881b-48e5-adb0-fc3e6a29450a.mp4
+
+• I cleaned up my macbook storage.
+
+• I started the recipe details in [iCookPad](https://github.com/JoJoDevAdventure/iCookPad)
+
+• I used Alamofire to request API.
+
 ## What I want to learn :
+
+- [ ] I want to learn how to correcty handle errors
+- [ ] Learn how build a clean scroll view
+- [ ] How to send photo messages in MessageKit (let's skate app)
+- [ ] Algebra revision
