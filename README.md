@@ -13,3 +13,4 @@ I hope that I'll finish this challenge and hopefully I can get to the end.
 #### • [Day 3](https://github.com/JoJoDevAdventure/100DaysCoding/blob/main/100Days/Day%203.md)
 #### • [Day 4](https://github.com/JoJoDevAdventure/100DaysCoding/blob/main/100Days/Day%204.md)
 #### • [Day 5](https://github.com/JoJoDevAdventure/100DaysCoding/blob/main/100Days/Day%205.md)
+#### • [Day 6](https://github.com/JoJoDevAdventure/100DaysCoding/blob/main/100Days/Day%206.md)
